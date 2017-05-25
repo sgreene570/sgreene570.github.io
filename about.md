@@ -11,7 +11,8 @@ I enjoy programming in Python, Java, and C. I am a hardcore debian user and real
 You can find me on...
 <br>
 - [Github](https://github.com/sgreene570)
+<br>
 - [LinkedIn](https://www.linkedin.com/in/stephen-greene-1601aa128/)
+<br>
 - [Bandcamp](https://steeviegeevie.bandcamp.com/releases)
-
-
+<br>

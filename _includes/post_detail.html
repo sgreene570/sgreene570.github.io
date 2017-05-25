@@ -5,5 +5,8 @@
 {% if post.title %}
     <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
 {% endif %}
+{% if post.date %}
+    {{ post.date }}
+{% endif %}
 </h1>
 <div class="entry-content">{{ content }}</div>
