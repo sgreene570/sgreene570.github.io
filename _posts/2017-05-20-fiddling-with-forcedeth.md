@@ -11,7 +11,7 @@ sticky with any flavor of linix.  After trying the typical network manager debu
 route, I was still unable to get ethernet working on my desktop.  At first,
 google searches suggested adding a few driver related lines to my grub config,
 which ultimately led me nowhere.  After more research, I found the [nvidia
-forcedeth module](https://github.com/torvalds/linux/blob/master/drivers/net/ethernet/nvidia/forcedeth.c) 
+forcedeth module](https://github.com/torvalds/linux/blob/master/drivers/net/ethernet/nvidia/forcedeth.c)
 in the modules directory of my OS.  As it turns out,
 changing the launch time parameters of the forcedeth module is a common fix for
 several of nividia's old onboard ethernet cards.  After digging through lots of
