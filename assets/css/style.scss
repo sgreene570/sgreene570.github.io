@@ -4,7 +4,13 @@
 @import "{{ site.theme }}";
 section{
     height: 100%;
-    width: 75%;
+    width: 100%;
     display: inline-block;
-    background: #003327
+}
+li{
+    list-style-type: none;
+    float: left;
+    position: relative;
+    margin: 0;
+    padding: 0;
 }
