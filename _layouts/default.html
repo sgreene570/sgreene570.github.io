@@ -31,9 +31,14 @@
           <h1>Steve Greene: Tech Enthusiast</h1>
           <hr>
         </div>
-        <center>
-        {{ content }}
-        </center>
+        <ul>
+          {% for post in site.posts %}
+              <li>
+                <a href="{{ post.url }}">{{ post.title }}</a>
+              </li>
+          {% endfor %}
+        </ul>
+        {{content}}
       </section>
 
     </div>
@@ -50,7 +55,6 @@
     {% endif %}
     <hr>
     <span class="credits right">Theme originally by <a href="https://twitter.com/michigangraham">mattgraham</a>, forked by me.</span>
-    <br>
     <span class="credits right">Contact me: <a href="mailto:sgreene570@gmail.com">sgreene570@gmail.com</a></span>
   </body>
 </html>
