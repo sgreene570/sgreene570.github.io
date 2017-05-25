@@ -5,8 +5,11 @@
 {% if post.title %}
     <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
 {% endif %}
-{% if post.date %}
-    {{ post.date }}
-{% endif %}
 </h1>
+<br>
+<h3 class="entry-title">
+{% if post.date %}
+    {{ post.date | date: '%B %d, %Y'}}
+{% endif %}
+</h3>
 <div class="entry-content">{{ content }}</div>

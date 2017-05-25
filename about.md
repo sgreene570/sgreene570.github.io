@@ -7,12 +7,7 @@ and group learning.
 <br>
 I enjoy programming in Python, Java, and C. I am a hardcore debian user and really enjoy working on the command line.
 <br>
-<br>
 You can find me on...
-<br>
-- [Github](https://github.com/sgreene570)
-<br>
-- [LinkedIn](https://www.linkedin.com/in/stephen-greene-1601aa128/)
-<br>
-- [Bandcamp](https://steeviegeevie.bandcamp.com/releases)
-<br>
+* [Github](https://github.com/sgreene570) 
+* [LinkedIn](https://www.linkedin.com/in/stephen-greene-1601aa128/) 
+* [Bandcamp](https://steeviegeevie.bandcamp.com/releases) 
