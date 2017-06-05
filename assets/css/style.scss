@@ -17,12 +17,20 @@ span{
     display: table;
     margin: 0 auto;
 }
+a:focus{
+    outline: None;
+}
+a[name]{
+  padding-top: 70px;
+  margin-top: -40px;
+  display: inline-block;
+}
+#header nav{
+    background: none;
+}
 #header nav li.fork{
     margin: auto;
 }
 section #title{
     margin: 0 0 0 0;
-}
-#header nav{
-    background: none;
 }
