@@ -9,7 +9,6 @@ section{
 }
 li{
     list-style-type: none;
-    float: left;
     position: relative;
     margin: 0;
     padding: 0;
@@ -18,7 +17,12 @@ span{
     display: table;
     margin: 0 auto;
 }
+#header nav li.fork{
+    margin: auto;
+}
+section #title{
+    margin: 0 0 0 0;
+}
 #header nav{
-    position: absolute;
     background: none;
 }
