@@ -38,13 +38,15 @@ Success!
 <br>
 The x62 has it's own custom bios with a cool splash screen.
 <br>
-After my initial install, I was having some issues with short circuits, so I went back and added the thin metal wire bridge to prevent the battery from contacting any
+After my initial install, I was having some issues with getting the board to power on, so I went back and added the thin metal wire bridge to prevent the battery from contacting any
 of the internal wires or cables.  Note the use of yellow thermal kaptom tape for wire management.
 ![Image](http://i.imgur.com/t75YZBV.jpg)
 <br>
-The x62 is a beast of a laptop.  If you decide to install your own x62 motherboard, make sure to take your time and watch out for shorts.  I had to spend a lot of time
+The x62 is a beast of a laptop.  If you decide to install your own x62 motherboard, make sure to take your time and watch out for any metal that could short.  I had to spend a lot of time
 carefully routing my cables and covering any potential short locations.  I also spent a lot of time screwing the keyboard and palm rest back in at the proper tension.
-Since my heat sink protrudes  slightly, applying to much pressure on the keyboard with the mounting screws sometimes leads to shorts.  If you wind up having issues
-with shorting (ex: the motherboard won't boot), check your screw tensions and check for shorts.  Also, you can instead choose to buy a new old stock x62 thinkpad
-from the [seller](https://www.facebook.com/lcdfans/).
+Since my heat sink protrudes  slightly, applying to much pressure on the keyboard with the mounting screws sometimes leads to random shutoss, and I am not entirely sure why.
+My best guess is that when applying pressure the heat sink, some things shift in an uncomfortable way and some small contacts short together.  Could also potentially be a grounding
+issue with the usb3 port as the copper cooling pipes sit literally on top of the usb3 port shield.  If you wind up having issues with shorting/getting your board to post, 
+check your screw tensions and check for shorts.  Also, you can instead choose to buy a new old stock x62 thinkpad
+from the [seller](https://www.facebook.com/lcdfans/).  These cost more money than just ordering a motherboard, but are definitely worth it.  You won't run into any of the power issues I did.
 
