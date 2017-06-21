@@ -36,7 +36,7 @@ You can actually cut out the pci card power line if you think you aren't going t
 Success!
 ![Image](http://i.imgur.com/lzcjtDp.jpg)
 <br>
-The x62 has it's own custom bios with a cool splash screen.
+The thinkpad x62 has it's own custom bios with a cool splash screen.
 <br>
 After my initial install, I was having some issues with getting the board to power on, so I went back and added the thin metal wire bridge to prevent the battery from contacting any
 of the internal wires or cables.  Note the use of yellow thermal kaptom tape for wire management.
