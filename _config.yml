@@ -1,2 +1,4 @@
 theme: jekyll-theme-midnight
 repository: sgreene570/sgreene570.github.io
+gems:
+  - jekyll-sitemap
