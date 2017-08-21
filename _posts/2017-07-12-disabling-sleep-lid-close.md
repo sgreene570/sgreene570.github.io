@@ -13,28 +13,19 @@ In order to disable sleeping on lid closes during shutdown, you can modify the s
 shutdown sequence.  Systemd will run any  scripts placed in the
 `/usr/lib/systemd/system-shutdown` directory when shuting down.
 For this case, I made the following systemd-shutdown script, called `lidsleep.service`
-<br>
-`[Unit]`
-<br>
-`Description=Disable lid closure sleep when powering off`
-<br>
-`Before=shutdown.target`
-<br>
-<br>
-`[Service]`
-<br>
-`type=oneshot`
-<br>
-`RemainAfterExit=true`
-<br>
-`ExecStart=/bin/true`
-<br>
-`ExecStop=systemd-inhibit --what=handle-lid-switch sleep 1d`
-<br>
-<br>
-`[Install]`
-<br>
-`WantedBy=multi-user.target`
-<br>
+
+```Bash
+[Unit]
+Description=Disable lid closure sleep when powering off
+Before=shutdown.target
+[Service]
+type=oneshot
+RemainAfterExit=true
+ExecStart=/bin/true
+ExecStop=systemd-inhibit --what=handle-lid-switch sleep 1d
+[Install]
+WantedBy=multi-user.target
+```
+
 This script uses the `systemd-inhibit` command to temporarily disable lid activated sleeping.  Once the system has been fully powered down,
 the systemd block will no longer be applicable until the next shutdown.
