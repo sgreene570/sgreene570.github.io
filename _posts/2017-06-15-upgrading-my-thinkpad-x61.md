@@ -11,13 +11,13 @@ and 2 ram slots.  Known as the "x62", this new thinkpad computer is perfect for 
 Installing the motherboard proved to be a little difficult, and took me longer than I had anticipated.
 <br>
 x61 before any modifications
-![Image](http://i.imgur.com/boMU9g6.jpg)
+![Image](https://i.imgur.com/boMU9g6.jpg)
 <br>
 The x61 is a small computer, and with the original components, space is at a premium.
 <br>
 Here is the new motherboard from 51nb ready for installation.
 <br>
-![Image](http://i.imgur.com/AJAgitz.jpg)
+![Image](https://i.imgur.com/AJAgitz.jpg)
 <br>
 The new motherboard is a lot smaller and compact.  Note how curved the heat sink fan is.  When installing the motherboard, make sure to carefully place the fan into
 the back left corner of the base.  You may have to push the copper tubing down to keep everything flat.  Do not pick up the motherboard by the plastic fan.  If you do this,
@@ -34,13 +34,13 @@ The small white connector on the right side of the motherboard is for a thinkpad
 You can actually cut out the pci card power line if you think you aren't going to need it (both connectors on the line run 3 volts @ max 1 amp).
 <br>
 Success!
-![Image](http://i.imgur.com/lzcjtDp.jpg)
+![Image](https://i.imgur.com/lzcjtDp.jpg)
 <br>
 The thinkpad x62 has it's own custom bios with a cool splash screen.
 <br>
 After my initial install, I was having some issues with getting the board to power on, so I went back and added the thin metal wire bridge to prevent the battery from contacting any
 of the internal wires or cables.  Note the use of yellow thermal kaptom tape for wire management.
-![Image](http://i.imgur.com/t75YZBV.jpg)
+![Image](https://i.imgur.com/t75YZBV.jpg)
 <br>
 The x62 is a beast of a laptop.  If you decide to install your own x62 motherboard, make sure to take your time and watch out for any metal that could short.  I had to spend a lot of time
 carefully routing my cables and covering any potential short locations.  I also spent a lot of time screwing the keyboard and palm rest back in at the proper tension.
