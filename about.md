@@ -1,4 +1,5 @@
-![Image](https://scontent-lga3-1.xx.fbcdn.net/v/t31.0-8/21368630_1292740864168427_400620286210959813_o.jpg?oh=7c16ceefe9f4c21854abe9345de2f1a0&oe=5A3D9841)
+![Image](https://avatars0.githubusercontent.com/u/17414243?s=460&v=4)
+<hr>
 # About me
 I am a computer science student at the Rochester Institute of Technology.  Believe it or not, RIT offers a challenging computer science curriculum unlike those offered
 at other universities.
