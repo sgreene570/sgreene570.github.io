@@ -20,6 +20,6 @@ I can also keep my fingers close to the trackpoint and home row when I need to t
 Experimental Thinkpads are a wild ride, but I have had enough of the roller coaster.  New hardware is not much better than the hardware that
 came out three or four years ago, so why not save the money and buy something nice at a comfortable price.
 <br>
-![Image](https://images-na.ssl-images-amazon.com/images/I/91L8%2B1xpOZL._SX425_.jpg)
+![Image](https://i.imgur.com/Qhggq3P.jpg)
 
 
