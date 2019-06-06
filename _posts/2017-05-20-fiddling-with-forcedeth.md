@@ -6,12 +6,12 @@ categories: jekyll update
 ---
 
 Sadly, my desktop motherboard has an outdated chipset.  For ethernet, I am left
-with an Nvidia mc61 gigabit controller, which is hardly supported and very
+with a Nvidia mc61 gigabit controller, which is hardly supported and very
 sticky with any flavor of linux.  After trying to debug my connection issues through network manager
 (a strategy that almost always works), I was still unable to get my onboard ethernet controller working.  At first,
 google searches suggested adding a few driver related lines to my grub config,
 which ultimately led me nowhere.  After more research, I found the [Nvidia
-forcedeth module](https://github.com/torvalds/linux/blob/master/drivers/net/ethernet/Nvidia/forcedeth.c)
+forcedeth module](https://github.com/torvalds/linux/blob/master/drivers/net/ethernet/nvidia/forcedeth.c)
 in the modules directory of my OS.  As it turns out,
 changing the launch time parameters of the forcedeth module is a common fix for
 several of nividia's old onboard ethernet cards.  After digging through lots of
