@@ -1,4 +1,8 @@
 theme: jekyll-theme-midnight
 repository: sgreene570/sgreene570.github.io
+name: Steve Greene's Blog
+description: Hey now!
+url:  https://stevegreene.me
 gems:
   - jekyll-sitemap
+
