@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/sgreene570
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://stevegreene.me
+  * I am sgreene570 (https://keybase.io/sgreene570) on keybase.
+  * I have a public key with fingerprint 6CB9 799B 77B8 FC4C 66F0  4F5A 6B3D 0372 6DA8 12E4
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101ec79482f6c80e9faccd5f1a42557015988d1681d8c4b672022f56d97931be12e0a",
+      "fingerprint": "6cb9799b77b8fc4c66f04f5a6b3d03726da812e4",
+      "host": "keybase.io",
+      "key_id": "6b3d03726da812e4",
+      "kid": "0101ec79482f6c80e9faccd5f1a42557015988d1681d8c4b672022f56d97931be12e0a",
+      "uid": "fc5e6e96d3314e465db40463dbed1519",
+      "username": "sgreene570"
+    },
+    "service": {
+      "hostname": "stevegreene.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1560387456,
+  "expire_in": 157680000,
+  "prev": "f93c7839347d92c152632cbd769e0e849dd3f2acd761b097764af48dbd66b7ee",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUm1QFVUYvpcPNQgCZDBuYbEVxXDB/Ty7ewliJmaYBjErCUnosh9ncQfYe9m7
+3CC9CUoO1woZQFScgiEnJE2JJhEHJVMYxKAPlILUxMIJjA9LpclhbJfiXz87f86c
+532e533ed05NkK9phbl5uu9OUva1neYLk7wp19xUuQXhHWIZYtuCFMDFCxaK0KXZ
+C2QRsSEohmJQoFmSwSUgMChkJU4QRErCOBKnKBrFKJZhRAwwmMgIJA9oHMVxiQIi
+S7MExkMMhyiHWBFJVvKh6lRlRdNtgcDrdZanaZ6RBFIAQEJJieIAT4goQeNA5Bhd
+SerCzQ6XodDD8ZwLJsgOHdMf9sV4/8H/n3OXLNpJAgUBZIFIEBgJSUCJPImSgBB5
+KGIUxhpEF1QVrgjqbFe+CqEC9S6Ix4rouFsWoLFaY5Yljgbd8B9egg5YEafq0ByC
+o1CvbdY0p8tmaLUyp0F+A/L2f23svKyI+i51hRuqLtmhIDZMZwqabPhiFEAJhiYp
+YEVgqVNWoV02GBQNGFQ/Rh/oNiZiiRyBZgiWIGmRxQWMwgGBC7xIAxaikCFZUSQk
+nBN0AONRlqYByUkkI/IiADwNjcguWKw4EBup5+TyjZnkfIXTSlSIeAK8PoSfybzC
+FBUR7WdR0aiE5MGP9nBJI0v/z9/H+HymgAdClpCMoBDTF7vSnfNz7NXVbaETnt4X
+45I7Y26dvndib0/ftm9A8MjzrneWt3+yMH04rOi98ZT4j2+cXWPtNk/1//BhFFaQ
+69t+/CAYrNj/TOvOnIa2X5Wx8OXxXyXmvF699ea7tblp1dtbGi34zIGx6N+vv7Bx
+0/CDw2v8E7OG0nqUvLWmuAF7d1Yn1/9cUMDM+uTii5Mx0xmBYV3TnXt+zjmEel9d
+1twXHd722UPeUz41sTOp2lyaqbb4fvHlCxsf/bqpP61hd8ezvQ2XJ1PLQVj29zlE
+ydGgzJHu0sK69qaqDTuOyXVdd509rFh69vQsa1lmZ0JB1yPvZ25w/sGfSfUG++FP
+3t4fWH69PkV+rLES/dP3A8v51rCJXkS9su+7uLxdJ+rtscPdjm9vDEXOLwv85W2f
+pNGDsy5f/8jEp/1jVl06Sk3PvjQQOtpHHo7wjK8rTVXFuE+rI67NeYTfuiKSx8gn
+UnLjHeeaTr7Zf2z8iDCUVrUeQ2/f613tsfhYVmWW5xXgVXL9ue07pKtrrVXmvPQf
+hZHu4Zb0hY5DaGTt3F9Ptb4WuXJvRvG2k0cWGstqVt6/OFiekOVuviJUjntvNd6J
+i69gTHdbKnyz0VdeDs6q2FRhu7nv88HQ9AkTM3opxQ0fNs93vFV04MspZbfHrS6E
+n7JnDtQ9ztZ5Y8+fWZc7NaEG/BRSUqltrTv+Nw==
+=57Mw
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sgreene570
+
+==================================================================
+
