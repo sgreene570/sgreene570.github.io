@@ -11,6 +11,4 @@ the Github Pages ecosystem has changed since I last used it. I was able to follo
 to bootstrap a trivial photo gallery for Zee in just a few minutes. How awesome is that? Highly reccomend the github pages gallery setup if you are ever in need of a trivial
 image gallery in a pinch.
 
-*begin corporate shilling*
 The fact that github pages and github actions are completely free is amazing. I sure hope more infrastructure becomes free or even low cost in the coming years!
-*end corporate shilling*
