@@ -1,8 +1,8 @@
-theme: jekyll-theme-midnight
+remote_theme: pages-themes/midnight@v0.2.0
 repository: sgreene570/sgreene570.github.io
 title: Steve Greene's Blog
 description: Hey now!
 url:  https://stevegreene.me
 plugins:
   - jekyll-sitemap
-
+  - jekyll-remote-theme
